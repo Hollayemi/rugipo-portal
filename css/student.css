@@ -1,0 +1,10 @@
+.main-section{
+	padding-left: 25px;
+	font-size: 1.2em;
+	width: 80%;
+}
+
+.st-name{
+	color :teal !important;
+	/* font-size: 2em; */
+}
